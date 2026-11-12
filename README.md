@@ -33,13 +33,24 @@
 
 ---
 
+### ✨ Featured
+
+<table>
+<tr>
+<td align="center" width="50%"><a href="https://github.com/ChoMinKyeong13/CrazyArcade-SFML"><img src="https://raw.githubusercontent.com/ChoMinKyeong13/CrazyArcade-SFML/main/docs/images/gameplay.gif" width="100%"></a><br><b>CrazyArcade-SFML</b><br><sub>C++ · SFML 2인 대전 게임</sub></td>
+<td align="center" width="50%"><a href="https://github.com/ChoMinKyeong13/DJing"><img src="https://raw.githubusercontent.com/ChoMinKyeong13/DJing/main/docs/images/dj_deck.gif" width="100%"></a><br><b>DJing</b><br><sub>C# · MySQL DJ 믹싱 & 음악 공유</sub></td>
+</tr>
+</table>
+
+---
+
 ### 📂 Projects
 
 | 프로젝트 | 설명 | 기술 | 형태 |
 |---|---|---|---|
 | [**Moble-2nd-Team-Project**](https://github.com/smlee11-hash/Moble-2nd-Team-Project) | 스마트 컨베이어 AI 품질검사·자동 분류 시스템 — 서보·모터·센서·긴급정지 제어, MFC 담당 | Arduino, C++, MFC | 팀 (6인) |
 | [**SmartHouseControl**](https://github.com/ChoMinKyeong13/SmartHouseControl) | Arduino + C# 스마트홈 제어 — 날씨 연동 지붕 자동 개폐, 가스 감지 환기 | Arduino, C# | 개인 |
-| [**CrazyArcade-SFML**](https://github.com/ChoMinKyeong13/CrazyArcade-SFML) | 2인용 물풍선 대전 게임 — 플레이어 파트(이동·입력·애니메이션) 담당 | C++, SFML | 팀 (5인) |
+| [**CrazyArcade-SFML**](https://github.com/ChoMinKyeong13/CrazyArcade-SFML) | 2인용 물풍선 대전 게임 — 부팀장, 플레이어 파트(이동·입력·애니메이션) 담당 | C++, SFML | 팀 (5인) |
 | [**DJing**](https://github.com/ChoMinKyeong13/DJing) | DJ 믹스 공유 플랫폼 & 미디어 플레이어 — DB 설계·SQL 전담 ([팀 저장소](https://github.com/dragon1894-lab/moble2)) | C#, MySQL, NAudio | 팀 |
 | [**Kiosk**](https://github.com/ChoMinKyeong13/Kiosk) | 주문 키오스크 — 카테고리 메뉴, 장바구니, 결제, 회원 포인트 | C# WinForms | 개인 |
 | [**WMgame**](https://github.com/ChoMinKyeong13/WMgame) | 수박게임 클론 — 직접 구현한 물리·충돌·합체 로직 | C# WinForms | 개인 |
