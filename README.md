@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&duration=3000&pause=900&color=2C5364&center=true&vCenter=true&width=620&lines=%EC%84%BC%EC%84%9C%EC%97%90%EC%84%9C+%EB%AA%A8%ED%84%B0%EA%B9%8C%EC%A7%80%2C+%EC%9E%A5%EB%B9%84%EA%B0%80+%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%94%81%EB%8B%88%EB%8B%A4;MCU+%E2%86%94+PC+%E2%86%94+DB%2C+%EC%A0%9C%EC%96%B4+%EA%B3%84%EC%B8%B5%EC%9D%84+%EC%9E%87%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;C+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Arduino+%C2%B7+MATLAB%2FSimulink" alt="typing">
 
+<br>
+
+<a href="https://github.com/ChoMinKyeong13"><img src="https://komarev.com/ghpvc/?username=ChoMinKyeong13&label=VISITORS&color=2c5364&style=for-the-badge" alt="visitors"></a>
+<img src="https://img.shields.io/github/followers/ChoMinKyeong13?label=FOLLOWERS&style=for-the-badge&color=203a43&logo=github" alt="followers">
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-장비제어_·_임베디드-5fd4e8?style=for-the-badge&labelColor=0f2027" alt="open to work">
+
 </div>
 
 <br>
@@ -162,6 +168,25 @@ flowchart LR
 |---|---|---|---|:---:|
 | [**CrazyArcade-SFML**](https://github.com/ChoMinKyeong13/CrazyArcade-SFML) | 2인용 물풍선 대전 게임 | **부팀장 · 플레이어 파트** — 타일 이동 보간, 상자 밀기, 동시 입력, HSV 팔레트 교체 | C++17 · SFML 3 | 팀 5인 |
 | [**WMgame**](https://github.com/ChoMinKyeong13/WMgame) | 수박게임 클론 | 물리 엔진 없이 중력 · 원 충돌 반복 해소 · 합체 판정 직접 구현 | C# · GDI+ | 개인 |
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChoMinKyeong13&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChoMinKyeong13&show_icons=true&include_all_commits=true&bg_color=0f2027&title_color=5fd4e8&text_color=e2e8f0&icon_color=5fd4e8&hide_border=true&border_radius=12" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoMinKyeong13&layout=compact&langs_count=8&bg_color=0f2027&title_color=5fd4e8&text_color=e2e8f0&icon_color=5fd4e8&hide_border=true&border_radius=12" height="170">
+
+<img src="https://streak-stats.demolab.com?user=ChoMinKyeong13&background=0f2027&ring=5fd4e8&fire=f97316&currStreakLabel=5fd4e8&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&stroke=203a43&hide_border=true&border_radius=12" width="70%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoMinKyeong13&bg_color=0f2027&color=e2e8f0&line=5fd4e8&point=f97316&area=true&area_color=5fd4e8&hide_border=true&radius=12" width="100%">
+
+</div>
 
 <br>
 
