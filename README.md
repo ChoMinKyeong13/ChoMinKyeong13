@@ -152,7 +152,7 @@ flowchart LR
 
 | 프로젝트 | 설명 | 핵심 | 기술 | 형태 |
 |---|---|---|---|:---:|
-| [**Moble-2nd-Team-Project**](https://github.com/smlee11-hash/Moble-2nd-Team-Project) | 스마트 컨베이어 AI 품질검사 · 자동 분류 라인 | **불량분류 컨베이어** 서보 · 모터 · 센서 · 긴급정지 제어, MFC 담당 | Arduino · C++ · MFC | 팀 6인 |
+| [**AI-Vision-Sorting-Line**](https://github.com/ChoMinKyeong13/AI-Vision-Sorting-Line) | AI 비전 품질검사 · 자동 분류 라인 (모블 2차 팀프) | **불량분류 컨베이어** · 분류 가이드 서보 제어, 긴급정지 NC 입력, DHT11 온습도 경보 + MFC 환경 탭 ([팀 저장소](https://github.com/smlee11-hash/Moble-2nd-Team-Project)) | Arduino Mega · C++ · MFC | 팀 6인 |
 | [**SmartHouseControl**](https://github.com/ChoMinKyeong13/SmartHouseControl) | 날씨를 읽고 스스로 지붕을 닫는 스마트홈 모형 | MCU/PC 제어 계층 분리 · `millis()` 논블로킹 · 히스테리시스 · 시리얼 프레이밍 | Arduino · C# · Open-Meteo | 개인 |
 
 ### 🖥 데스크톱 · 데이터베이스
